@@ -1,0 +1,47 @@
+{
+  "公众号": [
+    {
+      "name": "阿里云开发者",
+      "description": "阿里云官方技术公众号，关注云计算、大数据、人工智能等技术前沿",
+      "url": "https://mp.weixin.qq.com/profile?src=3&timestamp=1644567890&ver=1&signature=xyz"
+    },
+    {
+      "name": "刘润",
+      "description": "商业顾问刘润的公众号，关注商业逻辑、数字化转型、技术赋能",
+      "url": "https://mp.weixin.qq.com/profile?src=3&timestamp=1644567890&ver=1&signature=abc"
+    },
+    {
+      "name": "Datawhale",
+      "description": "专注于数据科学和AI学习的开源组织，分享实践经验和前沿技术",
+      "url": "https://mp.weixin.qq.com/profile?src=3&timestamp=1644567890&ver=1&signature=def"
+    }
+  ],
+  "社区": [
+    {
+      "name": "GitHub Trending",
+      "description": "GitHub趋势榜，筛选大模型/Agent标签下的热门开源项目",
+      "url": "https://github.com/trending?l=python&since=daily&spoken_language_code=zh",
+      "tags": ["大模型", "Agent"]
+    },
+    {
+      "name": "Coze官网博客",
+      "description": "Coze官方博客，发布平台更新、技术解析、最佳实践",
+      "url": "https://www.coze.cn/blog"
+    }
+  ],
+  "搜索关键词": [
+    "大模型",
+    "Agent",
+    "OpenSpec",
+    "Agent Skill",
+    "技术趋势",
+    "AI Agent",
+    "LLM",
+    "人工智能",
+    "机器学习",
+    "开源规范"
+  ],
+  "配置说明": "本配置用于技术趋势周度深度简报的信源监测，每周扫描这些信源获取技术前沿动态。公众号URL为示例格式，实际监测需通过微信爬虫或RSS服务。GitHub Trending需过滤特定标签。",
+  "创建时间": "2026-01-29",
+  "版本": "1.0"
+}
